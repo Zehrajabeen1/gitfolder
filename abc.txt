@@ -1,3 +1,6 @@
 hello
 this is my first file 
 for git cli repo
+now edit file after setting global
+username and
+email address
